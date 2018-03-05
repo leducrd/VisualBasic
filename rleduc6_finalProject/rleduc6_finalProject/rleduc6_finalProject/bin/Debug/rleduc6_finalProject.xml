@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+rleduc6_finalProject
+</name>
+</assembly>
+<members>
+<member name="T:rleduc6_finalProject.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.BronzeCatalogueBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.BronzeFishBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.BronzeInsectBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.BronzeSeafoodBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.GoldCatalogueBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.GoldFishBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.GoldInsectBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.GoldSeafoodBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.SilverCatalogueBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.SilverFishBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.SilverInsectBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:rleduc6_finalProject.My.Resources.Resources.SilverSeafoodBadge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
